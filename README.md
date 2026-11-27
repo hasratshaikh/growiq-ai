@@ -58,7 +58,7 @@ The following screenshots showcase the user interface of GrowIQ AI.
 
 ### AI Consultant
 
-![GrowIQ AI Consultant](<Feature UI/ai assistant ui.png>)
+![GrowIQ AI Consultant](<Feature UI/ai assitant ui.png>)
 
 ### Instagram Audit
 
